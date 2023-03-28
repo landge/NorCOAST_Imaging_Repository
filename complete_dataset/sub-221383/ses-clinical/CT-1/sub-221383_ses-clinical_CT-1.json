@@ -1,0 +1,25 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "LightSpeed VCT",
+	"PatientPosition": "HFS",
+	"ProtocolName": "DeIdentified",
+	"ScanOptions": "HELICAL MODE",
+	"ImageType": ["DERIVED", "SECONDARY", "REFORMATTED", "AVERAGE"],
+	"RawImage": false,
+	"SeriesNumber": 601,
+	"AcquisitionTime": "13:30:3.636480",
+	"AcquisitionNumber": 1,
+	"ConvolutionKernel": "SOFT",
+	"ExposureTime": 0.912,
+	"SliceThickness": 2,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		0.995292,
+		-0.096927	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20220720"
+}

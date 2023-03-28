@@ -1,0 +1,25 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Sensation 64",
+	"BodyPartExamined": "CT Caput",
+	"PatientPosition": "HFS",
+	"SoftwareVersions": "syngo CT 2009E",
+	"ImageType": ["ORIGINAL", "PRIMARY", "AXIAL", "CT", "SOM5 SPI"],
+	"SeriesNumber": 2,
+	"AcquisitionTime": "13:36:30.504020",
+	"AcquisitionNumber": 2,
+	"ConvolutionKernel": "H31s",
+	"ExposureTime": 1,
+	"XRayTubeCurrent": 304,
+	"XRayExposure": 380,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		1,
+		0	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20220720"
+}

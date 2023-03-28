@@ -1,0 +1,24 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "SOMATOM Definition Flash",
+	"BodyPartExamined": "CTA Caput/Collum",
+	"PatientPosition": "HFS",
+	"SoftwareVersions": "syngo CT 2012B",
+	"ImageType": ["ORIGINAL", "PRIMARY", "LOCALIZER", "CT", "SOM5 TOP"],
+	"SeriesNumber": 2,
+	"AcquisitionNumber": 2,
+	"ConvolutionKernel": "T20f",
+	"ExposureTime": 5.233,
+	"XRayTubeCurrent": 60,
+	"XRayExposure": 313,
+	"ImageOrientationPatientDICOM": [
+		1,
+		-1.83697e-16,
+		0,
+		0,
+		0,
+		-1	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20220720"
+}

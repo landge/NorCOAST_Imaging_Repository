@@ -1,0 +1,26 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Sensation 16",
+	"DeviceSerialNumber": "DeIdentified",
+	"BodyPartExamined": "HEAD",
+	"PatientPosition": "HFS",
+	"SoftwareVersions": "syngo CT 2007S",
+	"ProtocolName": "DeIdentified",
+	"ImageType": ["DERIVED", "SECONDARY", "OTHER", "CSA MPR THICK", "AXIAL", "CT", "SOM5 SPI"],
+	"RawImage": false,
+	"SeriesNumber": 602,
+	"AcquisitionTime": "19:18:42.191610",
+	"AcquisitionNumber": 2,
+	"ConvolutionKernel": "H31s",
+	"SliceThickness": 3,
+	"ImageOrientationPatientDICOM": [
+		0.99939,
+		-0.0338852,
+		0.00850784,
+		0.032166,
+		0.987471,
+		0.154486	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20220720"
+}

@@ -1,0 +1,27 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Sensation 16",
+	"DeviceSerialNumber": "DeIdentified",
+	"BodyPartExamined": "HEAD",
+	"PatientPosition": "HFS",
+	"SoftwareVersions": "syngo CT 2007S",
+	"ProtocolName": "DeIdentified",
+	"ImageType": ["ORIGINAL", "PRIMARY", "AXIAL", "CT", "SOM5 SEQ"],
+	"SeriesNumber": 2,
+	"AcquisitionTime": "22:23:27.313090",
+	"AcquisitionNumber": 2,
+	"ConvolutionKernel": "H31s",
+	"ExposureTime": 1,
+	"XRayTubeCurrent": 320,
+	"XRayExposure": 320,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		0.942641,
+		-0.333807	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20220720"
+}

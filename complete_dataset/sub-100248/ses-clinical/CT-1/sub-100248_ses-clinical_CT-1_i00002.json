@@ -1,0 +1,27 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "LightSpeed VCT",
+	"DeviceSerialNumber": "DeIdentified",
+	"PatientPosition": "HFS",
+	"SoftwareVersions": "gmp_vct.42",
+	"ProtocolName": "DeIdentified",
+	"ScanOptions": "AXIAL MODE",
+	"ImageType": ["DERIVED", "SECONDARY", "REFORMATTED", "AVERAGE"],
+	"RawImage": false,
+	"SeriesNumber": 301,
+	"AcquisitionTime": "02:25:50.000000",
+	"ConvolutionKernel": "STANDARD",
+	"ExposureTime": 1,
+	"XRayTubeCurrent": 336,
+	"SliceThickness": 3,
+	"ImageOrientationPatientDICOM": [
+		1,
+		6.19052e-06,
+		0.000252105,
+		-5.0595e-05,
+		0.984318,
+		0.176401	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20220720"
+}

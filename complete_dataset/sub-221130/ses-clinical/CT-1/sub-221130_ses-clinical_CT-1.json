@@ -1,0 +1,27 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Emotion 6",
+	"DeviceSerialNumber": "DeIdentified",
+	"BodyPartExamined": "HEAD",
+	"PatientPosition": "HFS",
+	"SoftwareVersions": "syngo CT 2006A",
+	"ProtocolName": "DeIdentified",
+	"ImageType": ["ORIGINAL", "PRIMARY", "AXIAL", "CT", "SOM5 SEQ"],
+	"SeriesNumber": 2,
+	"AcquisitionTime": "13:25:11.313010",
+	"AcquisitionNumber": 2,
+	"ConvolutionKernel": "H40s",
+	"ExposureTime": 1.5,
+	"XRayTubeCurrent": 176,
+	"XRayExposure": 265,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		0.939693,
+		-0.34202	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20220720"
+}

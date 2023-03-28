@@ -1,0 +1,25 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "SOMATOM Definition Flash",
+	"BodyPartExamined": "HEAD",
+	"PatientPosition": "HFS",
+	"SoftwareVersions": "syngo CT VA48A",
+	"ImageType": ["ORIGINAL", "PRIMARY", "AXIAL", "CT", "SOM5 SPI"],
+	"SeriesNumber": 2,
+	"AcquisitionTime": "08:44:9.114000",
+	"AcquisitionNumber": 2,
+	"ConvolutionKernel": "J30s\\3",
+	"ExposureTime": 1,
+	"XRayTubeCurrent": 141,
+	"XRayExposure": 256,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		1,
+		0	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20220720"
+}

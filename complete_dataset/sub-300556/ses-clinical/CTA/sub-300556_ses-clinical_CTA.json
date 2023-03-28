@@ -1,0 +1,27 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "Toshiba",
+	"ManufacturersModelName": "Aquilion_PRIME",
+	"InstitutionName": "fPACS",
+	"InstitutionalDepartmentName": "NorCOAST2",
+	"StationName": "fPACS",
+	"PatientPosition": "HFS",
+	"SoftwareVersions": "V6.06GR006",
+	"SeriesDescription": "_Vol._CTA_0.5_CE_CTA_Vol_Neck_FC43_AIDR_3D_STD",
+	"ProtocolName": "_Vol._CTA_0.5_CE_CTA_Vol_Neck_FC43_AIDR_3D_STD",
+	"ScanOptions": "HELICAL_CT",
+	"ImageType": ["ORIGINAL", "PRIMARY", "AXIAL"],
+	"SeriesNumber": 11,
+	"AcquisitionNumber": 3,
+	"XRayExposure": 80,
+	"ReconMatrixPE": 512,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		1,
+		0	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20200331"
+}

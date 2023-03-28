@@ -1,0 +1,20 @@
+{
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "DISCOVERY_MR750",
+	"RawImage": false,
+	"InstitutionName": "Ullevaal_Universitetssykehus",
+	"SoftwareVersions": "25_LX_MR_Software_release:DV25.0_R02_1549.b",
+	"ScanningSequence": "EP_RM",
+	"SequenceVariant": "NONE",
+	"SeriesDescription": "Isotropic_image",
+	"ProtocolName": "Isotropic_image",
+	"ImageType": ["DERIVED", "PRIMARY", "CMB", "CMB"],
+	"AcquisitionTime": "12:17:14.000000",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 90,
+	"EchoTime": 0.0831,
+	"RepetitionTime": 8.15,
+	"PhaseEncodingLines": 128,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0"
+}

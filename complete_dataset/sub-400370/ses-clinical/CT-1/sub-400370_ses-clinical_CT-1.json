@@ -1,0 +1,25 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "SOMATOM Definition AS+",
+	"BodyPartExamined": "CTA Caput",
+	"PatientPosition": "HFS",
+	"SoftwareVersions": "syngo CT 2012B",
+	"ImageType": ["ORIGINAL", "PRIMARY", "AXIAL", "CT", "SOM5 SPI"],
+	"SeriesNumber": 2,
+	"AcquisitionTime": "00:08:13.966000",
+	"AcquisitionNumber": 2,
+	"ConvolutionKernel": "H31s",
+	"ExposureTime": 1,
+	"XRayTubeCurrent": 167,
+	"XRayExposure": 303,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		1,
+		0	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20220720"
+}

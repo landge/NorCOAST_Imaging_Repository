@@ -1,0 +1,20 @@
+{
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "DISCOVERY_MR750",
+	"RawImage": false,
+	"InstitutionName": "Ullevaal_Universitetssykehus",
+	"SoftwareVersions": "25_LX_MR_Software_release:DV25.0_R02_1549.b",
+	"ScanningSequence": "EP_SE",
+	"SequenceVariant": "NONE",
+	"SeriesDescription": "Apparent_Diffusion_Coefficient_(mm2_s)",
+	"ProtocolName": "Apparent_Diffusion_Coefficient_(mm2_s)",
+	"ImageType": ["DERIVED", "PRIMARY", "ADC", "ADC"],
+	"AcquisitionTime": "12:44:11.000000",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 90,
+	"EchoTime": 0.0615,
+	"RepetitionTime": 3.5,
+	"PhaseEncodingLines": 128,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0"
+}

@@ -1,0 +1,23 @@
+{
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "DISCOVERY_MR750",
+	"EchoTrainLength": 6,
+	"AcquisitionNumber": 1,
+	"InstitutionName": "Ullevaal_Universitetssykehus",
+	"DeviceSerialNumber": "000000NO1005MR02",
+	"SoftwareVersions": "25_LX_MR_Software_release:DV25.0_R01_1451.a",
+	"ProcedureStepDescription": "MR_caput_(hodet)",
+	"ScanningSequence": "GR",
+	"SequenceVariant": "SS_SP_SK",
+	"SeriesDescription": "Ax_SWAN_3D",
+	"ProtocolName": "Ax_SWAN_3D",
+	"ImageType": ["ORIGINAL", "PRIMARY", "OTHER"],
+	"AcquisitionTime": "16:03:39.000000",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 10,
+	"EchoTime": 0.02306,
+	"RepetitionTime": 0.0369,
+	"PhaseEncodingLines": 224,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0"
+}
